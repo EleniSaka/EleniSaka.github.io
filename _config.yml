@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Eleni Saka"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Eleni"
+description              : &description "personal description,personal description,personal description,personal description,personal description,"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -23,13 +23,17 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Eleni Saka"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "I am an undergraduate student at the School of Rural and Surveying Engineering – Geoinformatics at the National
+                       Technical University of Athens, currently completing my master thesis focused on applying Positive Unlabeled learning
+                       techniques to the Mesogeos dataset for wildfire danger forecasting. My academic background combines
+                       geoinformatics, machine learning, and data science, with a strong interest in innovative predictive modeling and data
+                      driven solutions."
+  location         : "Athens, Greece"
+  employer         : "National Technical University of Athens and Archimedes, Athena Research Center, Greece"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "esaka395@gmail.com" 
 
   # Academic websites
   academia         : # URL
