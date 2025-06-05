@@ -7,8 +7,9 @@ redirect_from:
   - /resume
 ---
 
-The full cv can be found here: 
-{% D:\Sxoli\9o_Examino\Συμβάσεις\Git_Clone\EleniSaka.github.io\_data\my_cv\4_CV_Eleni_Saka.pdf %}
+The full resume can be found [here](/files/CV_Eleni_Saka.pdf)
+
+{% include base_path %}
 
 Education
 ======
