@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_6155.png"
+  avatar           : "profile.png"
   name             : "Eleni Saka"
   pronouns         : # example: "she/her"  
   bio              : "I am an undergraduate student at the School of Rural and Surveying Engineering – Geoinformatics at the National
