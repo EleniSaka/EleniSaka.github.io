@@ -28,8 +28,9 @@ author:
   bio              : "Surveying and Geoinformatics Engineering"
 
   location         : "Athens, Greece"
-  university: "National Technical University of Athens"
-  research_affiliation: "Archimedes, Athena Research Center, Greece"
+  employer          : "National Technical University of Athens; 
+                      National Observatory of Athens; 
+                      Archimedes, Athena Research Center, Greece"
 
   uri              : # URL
   email            : "esaka395@gmail.com" 
