@@ -25,7 +25,7 @@ Work experience
 
 --> Internship at the Department Beyond Centre of EO Research & Satellite Remote Sensing
 
-During an internship at the Beyond Earth Observation Center of the National Observatory of Athens (June–September 2024), I focused on wildfire mapping, risk assessment, and satellite data analysis using Sentinel-2 imagery, QGIS, and Python. I began with manual burned area mapping and statistical extraction, followed by the analysis of fire reports and active fire data from MODIS, VIIRS, and EFFIS. I contributed to the evaluation of the FireHub service using SEVIRI data and photointerpretation. As part of the Copernicus Emergency Management Service (EMS), I supported EMSN196 (Zambia) through land use change detection and data validation. I later worked on EMSN200 (Falakro) and EMSN197 (Azores), contributing to fire delineation, map production, geodatabase creation, and the development of Web Maps, Scenes, and Dashboards. In the final stages, I developed Python tools for automating the retrieval of cloud-free imagery and burned area mapping, and created a machine learning dataset to support fire risk forecasting.
+During my internship at the Beyond Earth Observation Center of the National Observatory of Athens (June–September 2024), I focused on wildfire mapping, risk assessment, and satellite data analysis using Sentinel-2 imagery, QGIS, and Python. I began with manual burned area mapping and statistical extraction, followed by the analysis of fire reports and active fire data from MODIS, VIIRS, and EFFIS. I contributed to the evaluation of the FireHub service using SEVIRI data and photointerpretation. As part of the Copernicus Emergency Management Service (EMS), I supported EMSN196 (Zambia) through land use change detection and data validation. I later worked on EMSN200 (Falakro) and EMSN197 (Azores), contributing to fire delineation, map production, geodatabase creation, and the development of Web Maps, Scenes, and Dashboards. In the final stages, I developed Python tools for automating the retrieval of cloud-free imagery and burned area mapping, and created a machine learning dataset to support fire risk forecasting.
 
 * National Observatory of Athens (23/09/2024 – 30/11/2024 Athens, Greece)
 
@@ -44,9 +44,9 @@ Foreign Languages
 * Mother tongue : Greek (Ελληνικά) 
 * Foreign Languages : English, C2 Level (Proficiency)
   
-Projects
+<!-- Projects
 ======
-i will think about it 
+i will think about it  -->
   
 Honours and awards
 ======
@@ -57,6 +57,6 @@ Honours and awards
 * Dimitrios Thomaidis Award – National Technical University of Athens (Academic Year 2021-2022)
 * Dimitrios Thomaidis Award – National Technical University of Athens (Academic Year 2022-2023)
   
-Some Courses
+<!-- Some Courses
 ======
-Also think about it
+Also think about it -->
