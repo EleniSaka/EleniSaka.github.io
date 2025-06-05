@@ -25,13 +25,8 @@ author:
   avatar           : "profile.png"
   name             : "Eleni Saka"
   pronouns         : # example: "she/her"  
-  # bio              : "I am an undergraduate student at the School of Rural and Surveying Engineering – Geoinformatics at the National
-  #                      Technical University of Athens, currently completing my master thesis focused on applying Positive Unlabeled learning
-  #                      techniques to the Mesogeos dataset for wildfire danger forecasting. My academic background combines
-  #                      geoinformatics, machine learning, and data science, with a strong interest in innovative predictive modeling and data
-  #                     driven solutions."
-  bio              : "     
-                                           "
+  bio              : "Surveying and Geoinformatics Engineering"
+
   location         : "Athens, Greece"
   employer: "National Technical University of Athens; National Observatory of Athens; Archimedes, Athena Research Center, Greece"
 
