@@ -22,6 +22,7 @@ Fields:
 Work experience
 ======
 * National Observatory of Athens (11/07/2024 – 10/09/2024 Athens, Greece)
+
 --> Internship at the Department Beyond Centre of EO Research & Satellite Remote Sensing
 
   * Processing Sentinel-2 satellite images, manual mapping of burned areas using GIS, extraction of statistics and
@@ -39,6 +40,7 @@ Work experience
   * Creation of a machine learning dataset.
 
 * National Observatory of Athens (23/09/2024 – 30/11/2024 Athens, Greece)
+
 --> Department Beyond Centre of EO Research & Satellite Remote Sensing
 
 Participation in the CEMS research program. Execution of the project "Risk assessment of forest fires using machine learning, detailed mapping of burned areas,
