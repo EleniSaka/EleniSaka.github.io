@@ -30,9 +30,11 @@ author:
   #                      techniques to the Mesogeos dataset for wildfire danger forecasting. My academic background combines
   #                      geoinformatics, machine learning, and data science, with a strong interest in innovative predictive modeling and data
   #                     driven solutions."
+  bio              : "     
+                                           "
   location         : "Athens, Greece"
-  employer         : "National Technical University of Athens and 
-                      Archimedes, Athena Research Center, Greece"
+  employer         : "National Technical University of Athens" 
+  employer         : "Archimedes, Athena Research Center, Greece"
   uri              : # URL
   email            : "esaka395@gmail.com" 
 
