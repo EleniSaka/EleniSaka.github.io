@@ -25,26 +25,13 @@ Work experience
 
 --> Internship at the Department Beyond Centre of EO Research & Satellite Remote Sensing
 
-  * Processing Sentinel-2 satellite images, manual mapping of burned areas using GIS, extraction of statistics and
- information for the affected areas, and creation of burned area maps. 
-  * Retrieval and analysis of data from fire department reports, use of active fire data (MODIS, VIIRS), and burned
- area data from EFFIS. Performance evaluation of the FireHub service using SEVIRI satellite images and
- photointerpretation.
-  * Change detection and data validation using photointerpretation for land use in areas of interest in Zambia for
- EMSN196 Zambia
-  * Participation in EMSN200 Falakro, working on fire delineation, fire grading, map production, geodatabase
- creation, layer uploads to an online service, and development of Web Map, Scene, and Dashboard.
-  * Participation in EMSN197 Azores, uploading layers to ArcGIS Online, and creating Web Map, Scene, and
- Dashboard.
-  * Automation of the process for retrieving suitable cloud-free images and digitizing burned areas using Python
-  * Creation of a machine learning dataset.
+During an internship at the Beyond Earth Observation Center of the National Observatory of Athens (June–September 2024), I focused on wildfire mapping, risk assessment, and satellite data analysis using Sentinel-2 imagery, QGIS, and Python. I began with manual burned area mapping and statistical extraction, followed by the analysis of fire reports and active fire data from MODIS, VIIRS, and EFFIS. I contributed to the evaluation of the FireHub service using SEVIRI data and photointerpretation. As part of the Copernicus Emergency Management Service (EMS), I supported EMSN196 (Zambia) through land use change detection and data validation. I later worked on EMSN200 (Falakro) and EMSN197 (Azores), contributing to fire delineation, map production, geodatabase creation, and the development of Web Maps, Scenes, and Dashboards. In the final stages, I developed Python tools for automating the retrieval of cloud-free imagery and burned area mapping, and created a machine learning dataset to support fire risk forecasting.
 
 * National Observatory of Athens (23/09/2024 – 30/11/2024 Athens, Greece)
 
 --> Department Beyond Centre of EO Research & Satellite Remote Sensing
 
-Participation in the CEMS research program. Execution of the project "Risk assessment of forest fires using machine learning, detailed mapping of burned areas,
- and statistical analysis of historical fires" as part of the implementation of the research program titled "CEMS" 
+Participation in the CEMS research program. Execution of the project "Risk assessment of forest fires using machine learning, detailed mapping of burned areas and statistical analysis of historical fires" as part of the implementation of the research program titled "CEMS". 
 
 Skills
 ======
