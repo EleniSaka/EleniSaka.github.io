@@ -1,13 +1,14 @@
 ---
 layout: archive
-title: "CV"
+title: "Resunme"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+The full cv can be found here: 
+{% D:\Sxoli\9o_Examino\Συμβάσεις\Git_Clone\EleniSaka.github.io\_data\my_cv\4_CV_Eleni_Saka.pdf %}
 
 Education
 ======
