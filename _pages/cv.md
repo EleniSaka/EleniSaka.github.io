@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-The full resume can be found [here](/files/CV_Eleni_Saka.pdf)
+The full resume can be found [here](EleniSaka.github.io/files/CV_Eleni_Saka.pdf)
 
 {% include base_path %}
 
