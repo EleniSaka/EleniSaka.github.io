@@ -14,8 +14,7 @@ The full resume can be found [here](EleniSaka.github.io/files/CV_Eleni_Saka.pdf)
 Education
 ======
 National Technical University of Athens (NTUA)                 
-School of Rural, Surveying and Geoinformatics Engineering
-(2020 – Current)
+School of Rural, Surveying and Geoinformatics Engineering (2020 – Current)
 Fields: 
 * Topography II 
 * Regional Urban Planning & Sustainable Development
@@ -23,7 +22,7 @@ Fields:
 Work experience
 ======
 * National Observatory of Athens (11/07/2024 – 10/09/2024 Athens, Greece)
-Internship at the Department Beyond Centre of EO Research & Satellite Remote Sensing
+--> Internship at the Department Beyond Centre of EO Research & Satellite Remote Sensing
 
   * Processing Sentinel-2 satellite images, manual mapping of burned areas using GIS, extraction of statistics and
  information for the affected areas, and creation of burned area maps. 
@@ -40,7 +39,7 @@ Internship at the Department Beyond Centre of EO Research & Satellite Remote Sen
   * Creation of a machine learning dataset.
 
 * National Observatory of Athens (23/09/2024 – 30/11/2024 Athens, Greece)
-Department Beyond Centre of EO Research & Satellite Remote Sensing
+--> Department Beyond Centre of EO Research & Satellite Remote Sensing
 
 Participation in the CEMS research program. Execution of the project "Risk assessment of forest fires using machine learning, detailed mapping of burned areas,
  and statistical analysis of historical fires" as part of the implementation of the research program titled "CEMS" 
