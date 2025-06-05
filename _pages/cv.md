@@ -13,9 +13,11 @@ The full resume can be found [here](EleniSaka.github.io/files/CV_Eleni_Saka.pdf)
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+National Technical University of Athens (NTUA)                  2020 – Current
+School of Rural, Surveying and Geoinformatics Engineering
+Fields: 
+* Topography II 
+* Regional Urban Planning & Sustainable Development
 
 Work experience
 ======
@@ -36,31 +38,26 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: Python, C++, Matlab
+* Frameworks: Xarray, GeoPandas, Pandas, NumPy, Matplotlib, Pytorch
+* Programms: QGIS, ArcGIS, AutoCAD(2D), Git
 
-Publications
+Foreign Languages
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Mother tongue : Greek (Ελληνικά) 
+* Foreign Languages : English, C2 Level (Proficiency)
   
-Talks
+Projects
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+i will think about it 
   
-Teaching
+Honours and awards
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+*
+*
+*
+*
   
-Service and leadership
+Some Courses
 ======
-* Currently signed in to 43 different slack teams
+Also think about it
