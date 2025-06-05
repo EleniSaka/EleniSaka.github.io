@@ -13,8 +13,9 @@ The full resume can be found [here](EleniSaka.github.io/files/CV_Eleni_Saka.pdf)
 
 Education
 ======
-National Technical University of Athens (NTUA)                  2020 – Current
+National Technical University of Athens (NTUA)                 
 School of Rural, Surveying and Geoinformatics Engineering
+(2020 – Current)
 Fields: 
 * Topography II 
 * Regional Urban Planning & Sustainable Development
