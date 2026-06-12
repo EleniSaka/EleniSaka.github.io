@@ -22,26 +22,22 @@ Final grade: 9.41/10 | Thesis grade: 10/10
 
 Work experience
 ======
-* Machine Learning Researcher – National Technical University of Athens, Laboratory of Remote Sensing (SRSE) (01/2026 – Current, Athens, Greece)
+* **Machine Learning Researcher – National Technical University of Athens, Laboratory of Remote Sensing (SRSE) (01/2026 – Current, Athens, Greece)**
 
 Working on self-supervised learning and geospatial foundation models, with a focus on training and developing location encoders. Projects include extending the SatCLIP framework to more modalities and developing OSMGraphCLIP, a geospatial representation model that learns global location embeddings from OpenStreetMap data using contrastive learning. Currently exploring self-supervised learning and foundation model approaches applied to weather and climate data.
 
-* Research & Machine Learning Engineering Intern – Athena Research Center, Archimedes Unit: Research in AI, Data Science & Algorithms (16/06/2025 – 30/11/2025, Athens, Greece)
+* **Research & Machine Learning Engineering Intern – Athena Research Center, Archimedes Unit: Research in AI, Data Science & Algorithms (16/06/2025 – 30/11/2025, Athens, Greece)**
 
 Developed scalable ML pipelines, distributed training frameworks, and privacy-preserving learning systems. Combined software engineering with research-driven experimentation, focused on efficient coding, automation, and reproducibility. Collaborated with an international research group; results and framework are being prepared for publication.
 
   * **Project 1 — Study Memorization in LLM models:** Built a NanoGPT-inspired PyTorch training framework and conducted large-scale experiments on OpenWebText. Designed data preprocessing, training, and evaluation workflows for memorization analysis.
   * **Project 2 — Privacy-Preserving Decentralized Training:** Developed a unified pipeline integrating DP-SGD teacher training, synthetic data generation, and knowledge distillation for decentralized learning without data sharing. Implemented multi-node distributed training with graph-based communication.
 
-* National Observatory of Athens (23/09/2024 – 30/11/2024, Athens, Greece)
-
---> Department Beyond Centre of EO Research & Satellite Remote Sensing
+* **National Observatory of Athens (23/09/2024 – 30/11/2024, Athens, Greece)** (Department Beyond Centre of EO Research & Satellite Remote Sensing)
 
 Participation in the CEMS research program. Execution of the project "Risk assessment of forest fires using machine learning, detailed mapping of burned areas and statistical analysis of historical fires" as part of the implementation of the research program titled "CEMS".
 
-* National Observatory of Athens (11/07/2024 – 10/09/2024, Athens, Greece)
-
---> Internship at the Department Beyond Centre of EO Research & Satellite Remote Sensing
+* **National Observatory of Athens (11/07/2024 – 10/09/2024, Athens, Greece)** (Internship at the Department Beyond Centre of EO Research & Satellite Remote Sensing)
 
 During my internship at the Beyond Earth Observation Center of the National Observatory of Athens, I focused on wildfire mapping, risk assessment, and satellite data analysis using Sentinel-2 imagery, QGIS, and Python. I began with manual burned area mapping and statistical extraction, followed by the analysis of fire reports and active fire data from MODIS, VIIRS, and EFFIS. I contributed to the evaluation of the FireHub service using SEVIRI data and photointerpretation. As part of the Copernicus Emergency Management Service (EMS), I supported EMSN196 (Zambia) through land use change detection and data validation. I later worked on EMSN200 (Falakro) and EMSN197 (Azores), contributing to fire delineation, map production, geodatabase creation, and the development of Web Maps, Scenes, and Dashboards. In the final stages, I developed Python tools for automating the retrieval of cloud-free imagery and burned area mapping, and created a machine learning dataset to support fire risk forecasting.
 
