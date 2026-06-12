@@ -30,8 +30,8 @@ Working on self-supervised learning and geospatial foundation models, with a foc
 
 Developed scalable ML pipelines, distributed training frameworks, and privacy-preserving learning systems. Combined software engineering with research-driven experimentation, focused on efficient coding, automation, and reproducibility. Collaborated with an international research group; results and framework are being prepared for publication.
 
-    * *Project 1 — Study Memorization in LLM models:* Built a NanoGPT-inspired PyTorch training framework and conducted large-scale experiments on OpenWebText. Designed data preprocessing, training, and evaluation workflows for memorization analysis.
-    * *Project 2 — Privacy-Preserving Decentralized Training:* Developed a unified pipeline integrating DP-SGD teacher training, synthetic data generation, and knowledge distillation for decentralized learning without data sharing. Implemented multi-node distributed training with graph-based communication.
+  - *Project 1 — Study Memorization in LLM models:* Built a NanoGPT-inspired PyTorch training framework and conducted large-scale experiments on OpenWebText. Designed data preprocessing, training, and evaluation workflows for memorization analysis.
+  - *Project 2 — Privacy-Preserving Decentralized Training:* Developed a unified pipeline integrating DP-SGD teacher training, synthetic data generation, and knowledge distillation for decentralized learning without data sharing. Implemented multi-node distributed training with graph-based communication.
 
 * **National Observatory of Athens (23/09/2024 – 30/11/2024, Athens, Greece)** (Department Beyond Centre of EO Research & Satellite Remote Sensing)
 
