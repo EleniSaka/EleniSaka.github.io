@@ -7,9 +7,11 @@ redirect_from:
   - /resume
 ---
 
-The full resume can be found [here](EleniSaka.github.io/files/Eleni_Saka_CV_11_06.pdf)
 
-{% include base_path %}
+The full resume can be found here: {% /mnt/shared_storage/esaka/pr/EleniSaka.github.io/files/Eleni_Saka_CV_11_06.pdf %} (EleniSaka.github.io/files/Eleni_Saka_CV_11_06.pdf)
+ 
+<!-- {% include base_path %} -->
+
 
 Education
 ======
